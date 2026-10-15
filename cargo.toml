@@ -1,0 +1,11 @@
+[package]
+name = "pkg"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "pkg"
+path = "src/main.rs"
+
+[dependencies]
+dirs = "5"
