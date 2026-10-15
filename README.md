@@ -11,7 +11,7 @@
 ### Из исходников
 
 ```bash
-git clone https://github.com/твой-ник/pkg.git
+git clone https://github.com/Strengthnaxy/pkg-Paket-Manadger
 cd pkg
 cargo build --release
 cp target/release/pkg ~/.local/bin/
